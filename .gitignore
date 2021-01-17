@@ -1,0 +1,5 @@
+/files/*.crt
+/files/*.key
+/files/*.txt
+composer.lock
+/vendor
