@@ -1,5 +1,6 @@
 /files/*.crt
 /files/*.key
 /files/*.txt
+/files/*.png
 composer.lock
 /vendor
